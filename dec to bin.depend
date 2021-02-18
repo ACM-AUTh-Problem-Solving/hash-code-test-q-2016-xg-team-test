@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613081462 source:c:\users\axaio\desktop\c files\dec to bin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
